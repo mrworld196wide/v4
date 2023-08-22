@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'topeogunleye1@gmail.com',
+  email: 'aishwar.pathak20@st.niituniversity.in',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/topeogunleye',
+      url: 'https://github.com/mrworld196wide',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/topeogunleye1',
+      url: 'https://www.instagram.com/aishwar_pathak',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/topeogunleye21',
+      url: 'https://twitter.com/aishwar_pathak',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ogunleye',
+      url: 'https://www.linkedin.com/in/aishwarpathak',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/topeogunleye21',
+      url: '',
     },
   ],
 

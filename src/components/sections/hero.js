@@ -59,11 +59,16 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Tope Leye.</h2>;
-  const three = <h3 className="big-heading">I help businesses increase their sales online</h3>;
+  const two = <h2 className="big-heading">Aishwar Pathak</h2>;
+  const three = <h3 className="big-heading">Developer | ML Enthusiast</h3>;
   const four = (
     <p>
-     Focus on running your business, while I focus on growing your business.
+      I'm a senior year student from NIIT University with a 7.56 CGPA and a passionate software
+      developer with a goal-driven creative mindset and passion for learning and innovating.
+      <br />
+      I love building things for the web.
+      <br />
+      Outside work, I occasionally blog on <a href="https://medium.com/@apkc4545">Medium</a>.
     </p>
   );
   const five = (

@@ -126,7 +126,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Gatsby', 'Node.js', 'Next.js'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React',
+    'ExpressJS',
+    'Node.js',
+    'Firebase',
+    'MongoDB',
+    'Git',
+    'Python',
+    'MySql',
+    'C++',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,21 +147,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Tope and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2019 when I decided to try graphic
-              designing. A friend advised me to do web development because it involves both
-              designing and coding.
+              Welcome to my portfolio! Hello! My name is Aishwar Pathak and I enjoy creating things
+              that live on the internet.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working with{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>,{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>,{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, and{' '}
-              <a href="https://reactjs.org/docs/getting-started.html">React</a>. My main focus these
-              days is building large react websites and web applications as{' '}
-              <a href="https://www.upwork.com/freelancers/~01e6d0c356a46fbae0">a freelancer</a> for
-              a variety of clients.
+              My journey into web development began during the
+              <a href="https://en.wikipedia.org/wiki/Quark_(technical_festival)">
+                Quaark (Tech Fest at BITS, Goa )
+              </a>
+              , where I took on projects and was mentored by senior students from BITS Goa. Since
+              then, I've been on an exciting path of continuous learning, working on various
+              projects to enhance my skills in front-end and back-end technologies. Beyond coding, I
+              find joy in exploring the intricacies of geopolitics and the captivating stories of
+              mythology. Combining my technical stack and diverse interests, I'm always seeking new
+              opportunities to grow and make a meaningful impact. Feel free to send me an{' '}
+              <a href="mailto:aishwar.pathak20@st.niituniversity.in">email</a>, as I'm eager to
+              engage in a meaningful conversation with you.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

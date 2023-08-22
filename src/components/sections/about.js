@@ -161,12 +161,14 @@ const About = () => {
               projects to enhance my skills in front-end and back-end technologies. Beyond coding, I
               find joy in exploring the intricacies of geopolitics and the captivating stories of
               mythology. Combining my technical stack and diverse interests, I'm always seeking new
-              opportunities to grow and make a meaningful impact. Feel free to send me an{' '}
+              opportunities to grow and make a meaningful impact.
+              <br />
+              Feel free to send me an{' '}
               <a href="mailto:aishwar.pathak20@st.niituniversity.in">email</a>, as I'm eager to
-              engage in a meaningful conversation with you.
+              engage in a meaningful conversation with me.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few technologies I've been working :</p>
           </div>
 
           <ul className="skills-list">

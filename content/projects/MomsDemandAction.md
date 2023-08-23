@@ -1,14 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Electronics Shopping Mall'
-github: 'https://github.com/topeogunleye/proshop_mern'
-external: 'https://github.com/topeogunleye/proshop_mern'
-ios: 'https://github.com/topeogunleye/proshop_mern'
-android: 'https://github.com/topeogunleye/proshop_mern'
+date: ''
+title: ''
+github: ''
+external: ''
+ios: ''
+android: ''
 tech:
-  - React
-  - Paypal API
-  - Redux
-company: 'freelancer'
+  -
+  -
+  -
+company: ''
 showInProjects: false
 ---

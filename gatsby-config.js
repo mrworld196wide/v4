@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Tope Leye',
+    title: 'Aishwar Pathak',
     description:
       'Aishwar Pathak is an aspiring Fullstack Developer , who loves learning new things. ',
     siteUrl: 'https://aishwarpathak.com/', // No trailing slash allowed!

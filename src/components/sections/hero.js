@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Aishwar Pathak</h2>;
-  const three = <h3 className="big-heading">Developer | ML Enthusiast</h3>;
+  const three = <h3 className="big-heading">Developer</h3>;
   const four = (
     <p>
       I'm a senior year student from NIIT University with a 7.56 CGPA and a passionate software
